@@ -9,15 +9,30 @@ I am a Computer Science student majoring in Artificial Intelligence at Universit
 I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Intelligent Systems, and practical AI solutions.
 </p>
 
+<p align="center">
+  <a href="https://alwaleed24.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B6914?style=for-the-badge" />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LINKEDIN_LINK_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## About Me
 
 - Studying **Bachelor's Degree in Computer Science (Artificial Intelligence) with Honours**
-- Interested in **AI, Machine Learning, Data Analytics, and Intelligent Systems**
+- Interested in **AI, Machine Learning, Data Analytics, Predictive Maintenance, and Intelligent Systems**
 - Currently building skills through academic projects, certificates, and hands-on practice
 - Open to internship opportunities in **AI, Data Analytics, Software Development, and Technology**
 - Based in **Melaka, Malaysia**
+- Portfolio website: **https://alwaleed24.github.io/portfolio/**
 
 ---
 
@@ -32,6 +47,7 @@ I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Int
 ### AI & Data
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge)
+![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-8B6914?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -47,10 +63,11 @@ I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Int
 
 ## Current Focus
 
-- Building a professional portfolio website
+- Building and improving my professional portfolio website
 - Improving my GitHub profile and project documentation
-- Learning more about **Machine Learning and Data Analytics**
+- Learning more about **Machine Learning, Data Analytics, and AI applications**
 - Working toward practical AI projects that solve real-world problems
+- Portfolio: **https://alwaleed24.github.io/portfolio/**
 
 ---
 
@@ -81,12 +98,11 @@ I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Int
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-<a href="https://alwaleed24.github.io/portfolio/">  
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="YOUR_LINKEDIN_LINK_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  - Portfolio website: https://alwaleed24.github.io/portfolio/
 
-<a href="https://alwaleed24.github.io/portfolio/">
+  <a href="https://alwaleed24.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B6914?style=for-the-badge" />
   </a>
 </p>
