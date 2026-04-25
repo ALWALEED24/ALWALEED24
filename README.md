@@ -82,11 +82,11 @@ I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Int
   </a>
 
 <a href="https://alwaleed24.github.io/portfolio/">  
-  - Portfolio website: https://alwaleed24.github.io/portfolio/
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  - Portfolio website: https://alwaleed24.github.io/portfolio/
 
-  <a href="YOUR_PORTFOLIO_LINK_HERE">
+<a href="https://alwaleed24.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B6914?style=for-the-badge" />
   </a>
 </p>
