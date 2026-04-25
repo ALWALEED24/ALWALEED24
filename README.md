@@ -81,8 +81,9 @@ I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Int
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_LINK_HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://alwaleed24.github.io/portfolio/">  
+  - Portfolio website: https://alwaleed24.github.io/portfolio/
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="YOUR_PORTFOLIO_LINK_HERE">
