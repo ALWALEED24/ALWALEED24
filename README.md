@@ -89,17 +89,6 @@ I am interested in Machine Learning, Data Analytics, Predictive Maintenance, Ind
 
 ---
 
-## Current Focus
-
-- Improving my GitHub profile, portfolio website, and project documentation
-- Learning more about **Machine Learning, Data Analytics, Industrial AI, and Database Systems**
-- Working toward practical AI projects that solve real-world problems
-- Developing a product-style AI project in **predictive maintenance, anomaly detection, health scoring, alert logic, and reporting**
-- Portfolio: **https://alwaleed24.github.io/portfolio/**
-- CV: **https://alwaleed24.github.io/portfolio/assets/cv/Alwaleed_Hassan_CV.pdf**
-
----
-
 ## Projects
 
 ### AI-Based Predictive Maintenance System
