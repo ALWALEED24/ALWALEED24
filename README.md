@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alwaleed Hassan 👋</h1>
 
 <h3 align="center">
-Computer Science (Artificial Intelligence) Student | Machine Learning | Data Analytics | Industrial AI
+Computer Science (Artificial Intelligence) Student 
 </h3>
 
 <p align="center">
