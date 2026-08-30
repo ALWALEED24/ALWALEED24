@@ -11,6 +11,10 @@ and problem solving.
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B6914&center=true&vCenter=true&width=650&lines=Game+Development;C%2B%2B+Development;Software+Engineering;Artificial+Intelligence;Machine+Learning;Data+Analytics" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://alwaleed24.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B6914?style=for-the-badge" />
   </a>
@@ -39,6 +43,7 @@ and problem solving.
 * Interested in building practical software solutions and improving my programming and problem-solving skills
 * Currently developing my technical skills through **academic projects, professional certifications, and hands-on practice**
 * Seeking internship opportunities in **Game Development, C++ Development, Software Engineering, Artificial Intelligence, and related technical roles**
+* Available for internship: **28 September 2026 – 12 March 2027**
 * Based in **Melaka, Malaysia**
 * Expected graduation: **November 2027**
 * Current CGPA: **3.14/4.00**
