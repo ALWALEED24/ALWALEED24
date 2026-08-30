@@ -179,7 +179,6 @@ The model was designed to predict heart disease risk based on patient data, prov
 
 ## Areas of Interest
 
-* 🎮 Game Development
 * 💻 C++ Development
 * 🧠 Artificial Intelligence
 * 🤖 Machine Learning
