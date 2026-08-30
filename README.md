@@ -181,15 +181,15 @@ The model was designed to predict heart disease risk based on patient data, prov
 
 ## Areas of Interest
 
-* 💻 C++ Development
-* 🧠 Artificial Intelligence
-* 🤖 Machine Learning
-* 🛠️ Software Engineering
-* 📊 Data Analytics
-* 🔧 Predictive Maintenance
-* 🧩 Problem Solving
-* 🗄️ Database Systems
-* 🤖 Robotics
+![C++ Development](https://img.shields.io/badge/C++%20Development-4B2E1F?style=for-the-badge)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B6914?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B4E16?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-D4A017?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4B2E1F?style=for-the-badge)
+![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-8B6914?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6B4E16?style=for-the-badge)
+![Database Systems](https://img.shields.io/badge/Database%20Systems-D4A017?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-4B2E1F?style=for-the-badge)
 
 ---
 
@@ -203,11 +203,11 @@ The model was designed to predict heart disease risk based on patient data, prov
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALWALEED24&show_icons=true&theme=default" alt="Alwaleed Hassan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALWALEED24&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4A017&icon_color=8B6914&text_color=4B2E1F" alt="Alwaleed Hassan's GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALWALEED24&layout=compact&theme=default" alt="Most used programming languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALWALEED24&layout=compact&hide_border=true&bg_color=00000000&title_color=D4A017&text_color=4B2E1F" alt="Most used programming languages" />
 </p>
 
 ---
