@@ -203,11 +203,11 @@ The model was designed to predict heart disease risk based on patient data, prov
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ALWALEED24&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4A017&icon_color=8B6914&text_color=4B2E1F" alt="Alwaleed Hassan's GitHub statistics" />
+  <img src="./profile/stats.svg" alt="Alwaleed Hassan's GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALWALEED24&layout=compact&hide_border=true&bg_color=00000000&title_color=D4A017&text_color=4B2E1F" alt="Most used programming languages" />
+  <img src="./profile/top-langs.svg" alt="Most used programming languages" />
 </p>
 
 ---
