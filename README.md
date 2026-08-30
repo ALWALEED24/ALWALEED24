@@ -5,8 +5,9 @@ Computer Science (Artificial Intelligence) Student
 </h3>
 
 <p align="center">
-I am a Computer Science student majoring in Artificial Intelligence at Universiti Teknikal Malaysia Melaka (UTeM).  
-I am interested in machine learning, data analytics, predictive maintenance, Industrial AI, database systems, and practical software solutions.
+I am a Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM),
+with a strong interest in game development, C++ development, software engineering, artificial intelligence,
+and problem solving.
 </p>
 
 <p align="center">
@@ -31,17 +32,16 @@ I am interested in machine learning, data analytics, predictive maintenance, Ind
 
 ## About Me
 
-* Studying for a **Bachelor of Computer Science (Artificial Intelligence) with Honours**
-* Interested in **Machine Learning, Data Analytics, Industrial AI, Predictive Maintenance, Anomaly Detection, Database Systems, and Software Development**
-* Experienced in developing academic projects involving AI, machine learning, dashboards, databases, and intelligent systems
-* Currently building my technical skills through academic projects, professional certificates, hands-on practice, and portfolio development
-* Seeking internship opportunities in **AI, Machine Learning, Data Analytics, Industrial AI, Software Development, and Database Systems**
-* Interested in creative work involving **website design, visual content creation, video editing, and project presentation**
+* Studying for a **Bachelor of Computer Science (Artificial Intelligence) with Honours** at **Universiti Teknikal Malaysia Melaka (UTeM)**
+* Strong foundation in **C++, Python, Object-Oriented Programming, and Software Development**
+* Interested in **Game Development, C++ Development, Software Engineering, Artificial Intelligence, and Problem Solving**
+* Experienced in developing **AI-powered applications, software systems, dashboards, and database-driven projects**
+* Interested in building practical software solutions and improving my programming and problem-solving skills
+* Currently developing my technical skills through **academic projects, professional certifications, and hands-on practice**
+* Seeking internship opportunities in **Game Development, C++ Development, Software Engineering, Artificial Intelligence, and related technical roles**
 * Based in **Melaka, Malaysia**
-* Expected graduation: **2027**
-* Current CGPA: **3.05/4.00**
-* Portfolio: **https://alwaleed24.github.io/portfolio/**
-* CV: **https://alwaleed24.github.io/portfolio/assets/cv/Alwaleed_Hassan_CV.pdf**
+* Expected graduation: **November 2027**
+* Current CGPA: **3.14/4.00**
 
 ---
 
@@ -49,40 +49,41 @@ I am interested in machine learning, data analytics, predictive maintenance, Ind
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### AI & Data
+### Artificial Intelligence & Data
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge)
-![Industrial AI](https://img.shields.io/badge/Industrial%20AI-8B6914?style=for-the-badge)
-![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-4B2E1F?style=for-the-badge)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-1F6FEB?style=for-the-badge)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-6B4E16?style=for-the-badge)
-![Database Systems](https://img.shields.io/badge/Database%20Systems-336791?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-4B2E1F?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8B6914?style=for-the-badge)
 
-### Tools & Visualization
+### Software & Databases
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-
-### Design & Web
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Robotics
 
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![TurtleBot3](https://img.shields.io/badge/TurtleBot3-2C3E50?style=for-the-badge)
-![ROS Basics](https://img.shields.io/badge/ROS%20Basics-22314E?style=for-the-badge\&logo=ros\&logoColor=white)
+
+### Microsoft Office
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
 
 ---
 
@@ -90,49 +91,37 @@ I am interested in machine learning, data analytics, predictive maintenance, Ind
 
 ### AI-Based Predictive Maintenance System
 
-Developed an AI-based predictive maintenance prototype for rotating equipment using Isolation Forest to detect abnormal machine behaviour.
+Developed an AI-based predictive maintenance prototype for rotating equipment using **Isolation Forest** to detect abnormal machine behaviour.
 
-Applied data preprocessing and feature scaling to prepare sensor data for analysis, calculate machine health scores, monitor equipment conditions, and generate alerts for early maintenance decisions.
+Applied data preprocessing and feature scaling to prepare sensor data for analysis, calculate machine health scores, monitor equipment conditions, and generate alerts to support early maintenance decisions.
 
-**Technologies:** Python, Scikit-learn, Streamlit, VS Code, HTML
+**Technologies:** Python, Scikit-learn, Streamlit, HTML, Plotly
 
-**Focus:** Predictive Maintenance, Isolation Forest, Anomaly Detection, Machine Health Scoring, Condition Monitoring
+**Focus:** Predictive Maintenance, Machine Learning, Isolation Forest, Anomaly Detection, Machine Health Monitoring
 
 ---
 
 ### Cinema Booking Ticket System
 
-Developed a cinema booking system that allows users to register, select seats, and make secure payments.
+Developed a cinema booking system that allows users to register, select seats, and manage bookings.
 
-The system also includes administrator features for managing movie schedules, bookings, and financial reports. Database normalization was applied to keep the data structured, organized, and efficient.
+The system includes administrator features for managing movie schedules, bookings, and financial information. Database normalization was applied to maintain structured and efficient data.
 
 **Technologies:** C++, MySQL
 
-**Focus:** Database Design, System Development, Booking Management, Database Normalization
-
----
-
-### Heart Disease Prediction Model
-
-Built a heart disease prediction model using MATLAB.
-
-The model was trained using a Multilayer Perceptron artificial neural network to predict the risk of heart disease based on patient data.
-
-**Technologies:** MATLAB, Artificial Neural Network, Machine Learning
-
-**Focus:** MLP, Classification, Clinical Data, Predictive Modelling
+**Focus:** C++, Database Design, System Development, Booking Management, Database Normalization
 
 ---
 
 ### MindLock – AI-Powered Password Generator
 
-Developed a password-security concept that uses visual memory anchors and biometric-based ideas to improve password usability and security.
+Developed a password-security concept using visual memory anchors and AI-assisted ideas to improve password usability and security awareness.
 
-Integrated AI support features to encourage safer password practices and improve cybersecurity awareness.
+The project explores the combination of software development, artificial intelligence concepts, and cybersecurity.
 
-**Technologies:** Python, HTML, Canva
+**Technologies:** Python, HTML, SQL
 
-**Focus:** Artificial Intelligence, Cybersecurity, Password Security, Visual Memory, User Awareness
+**Focus:** Artificial Intelligence, Cybersecurity, Password Security, Software Development
 
 ---
 
@@ -144,15 +133,27 @@ Integrated charts, filters, KPI cards, and an interactive heatmap to identify tr
 
 **Technologies:** Python, Streamlit, Pandas, Plotly, Folium
 
-**Focus:** Data Analytics, Traffic Analysis, CO₂ Emission Estimation, Environmental Risk Monitoring, Data Visualization
+**Focus:** Data Analytics, Data Visualization, Traffic Analysis, CO₂ Emission Estimation, Environmental Monitoring
+
+---
+
+### Heart Disease Prediction Model
+
+Built a heart disease prediction model using **MATLAB** and a **Multilayer Perceptron Artificial Neural Network**.
+
+The model was designed to predict heart disease risk based on patient data, providing practical experience in machine learning classification and predictive modelling.
+
+**Technologies:** MATLAB, Artificial Neural Network, Machine Learning
+
+**Focus:** MLP, Classification, Predictive Modelling, Machine Learning
 
 ---
 
 ## Certifications
 
-* **IBM Machine Learning Professional Certificate**
-* **Google Data Analytics Professional Certificate**
-* **Oracle Certified Foundations Associate, Database**
+* **IBM Machine Learning Professional Certificate** — May 2026
+* **Google Data Analytics Professional Certificate** — June 2026
+* **Oracle Certified Foundations Associate – Database** — February 2026
 
 ---
 
@@ -163,8 +164,9 @@ Integrated charts, filters, KPI cards, and an interactive heatmap to identify tr
 **Bachelor of Computer Science (Artificial Intelligence) with Honours**
 
 * Location: Melaka, Malaysia
-* Expected graduation: 2027
-* Current CGPA: 3.05/4.00
+* Started: 2023
+* Expected Graduation: **November 2027**
+* Current CGPA: **3.14/4.00**
 
 ### EMS Language Centre
 
@@ -172,6 +174,21 @@ Integrated charts, filters, KPI cards, and an interactive heatmap to identify tr
 
 * Location: Kuala Lumpur, Malaysia
 * Completed: 2022
+
+---
+
+## Areas of Interest
+
+* 🎮 Game Development
+* 💻 C++ Development
+* 🧠 Artificial Intelligence
+* 🤖 Machine Learning
+* 🛠️ Software Engineering
+* 📊 Data Analytics
+* 🔧 Predictive Maintenance
+* 🧩 Problem Solving
+* 🗄️ Database Systems
+* 🤖 Robotics
 
 ---
 
