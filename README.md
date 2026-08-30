@@ -1,17 +1,14 @@
-<h1 align="center">Hi, I'm Alwaleed Hassan 👋</h1>
-
-<h3 align="center">
-Computer Science (Artificial Intelligence) Student
-</h3>
-
 <p align="center">
-I am a Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM),
-with a strong interest in game development, C++ development, software engineering, artificial intelligence,
-and problem solving.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E1F,100:D4A017&height=220&section=header&text=Hi,%20I'm%20Alwaleed%20Hassan&fontSize=42&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Computer%20Science%20(Artificial%20Intelligence)%20Student&descAlignY=54&descSize=19&descColor=F5E6C8" alt="Header banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B6914&center=true&vCenter=true&width=650&lines=Game+Development;C%2B%2B+Development;Software+Engineering;Artificial+Intelligence;Machine+Learning;Data+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=C%2B%2B+Development;Software+Engineering;Artificial+Intelligence;Machine+Learning;Data+Analytics;Problem+Solving" alt="Typing SVG" />
+</p>
+
+<p align="center">
+I am a Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM),
+with a strong interest in C++ development, software engineering, artificial intelligence, and problem solving.
 </p>
 
 <p align="center">
@@ -38,11 +35,11 @@ and problem solving.
 
 * Studying for a **Bachelor of Computer Science (Artificial Intelligence) with Honours** at **Universiti Teknikal Malaysia Melaka (UTeM)**
 * Strong foundation in **C++, Python, Object-Oriented Programming, and Software Development**
-* Interested in **Game Development, C++ Development, Software Engineering, Artificial Intelligence, and Problem Solving**
+* Interested in **C++ Development, Software Engineering, Artificial Intelligence, and Problem Solving**
 * Experienced in developing **AI-powered applications, software systems, dashboards, and database-driven projects**
 * Interested in building practical software solutions and improving my programming and problem-solving skills
 * Currently developing my technical skills through **academic projects, professional certifications, and hands-on practice**
-* Seeking internship opportunities in **Game Development, C++ Development, Software Engineering, Artificial Intelligence, and related technical roles**
+* Seeking internship opportunities in **C++ Development, Software Engineering, Artificial Intelligence, and related technical roles**
 * Available for internship: **28 September 2026 – 12 March 2027**
 * Based in **Melaka, Malaysia**
 * Expected graduation: **November 2027**
@@ -237,4 +234,8 @@ The model was designed to predict heart disease risk based on patient data, prov
   <a href="https://alwaleed24.github.io/portfolio/assets/cv/Alwaleed_Hassan_CV.pdf">
     <img src="https://img.shields.io/badge/CV-View%20Resume-4B2E1F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A017,100:4B2E1F&height=100&section=footer" alt="Footer banner" width="100%" />
 </p>
