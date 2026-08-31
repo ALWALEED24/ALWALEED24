@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=C%2B%2B+Development;Software+Engineering;Artificial+Intelligence;Machine+Learning;Data+Analytics;Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Machine+Learning;Robotics;Data+Analytics;Industrial+AI;Software+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
 I am a Computer Science (Artificial Intelligence) student at Universiti Teknikal Malaysia Melaka (UTeM),
-with a strong interest in C++ development, software engineering, artificial intelligence, and problem solving.
+passionate about Artificial Intelligence, Machine Learning, Robotics, Data Analytics, and Software Development.
 </p>
 
 <p align="center">
@@ -34,14 +34,12 @@ with a strong interest in C++ development, software engineering, artificial inte
 ## About Me
 
 * Studying for a **Bachelor of Computer Science (Artificial Intelligence) with Honours** at **Universiti Teknikal Malaysia Melaka (UTeM)**
-* Strong foundation in **C++, Python, Object-Oriented Programming, and Software Development**
-* Interested in **C++ Development, Software Engineering, Artificial Intelligence, and Problem Solving**
-* Experienced in developing **AI-powered applications, software systems, dashboards, and database-driven projects**
-* Interested in building practical software solutions and improving my programming and problem-solving skills
+* Passionate about **Artificial Intelligence, Machine Learning, Robotics, Data Analytics, and Software Development**
+* Experienced in developing **AI-powered applications and full-stack systems** through academic projects
+* Interested in building practical software solutions and applying AI to real-world problems
 * Currently developing my technical skills through **academic projects, professional certifications, and hands-on practice**
-* Seeking internship opportunities in **C++ Development, Software Engineering, Artificial Intelligence, and related technical roles**
-* Available for internship: **28 September 2026 – 12 March 2027**
-* Based in **Melaka, Malaysia**
+* Seeking a **full-time industrial internship for 24 weeks from 28 September 2026 to 12 March 2027**
+* Based in **Malaysia**
 * Expected graduation: **November 2027**
 * Current CGPA: **3.14/4.00**
 
@@ -51,21 +49,21 @@ with a strong interest in C++ development, software engineering, artificial inte
 
 ### Programming
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Artificial Intelligence & Data
+### Artificial Intelligence
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-1F6FEB?style=for-the-badge)
 ![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-6B4E16?style=for-the-badge)
-![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-4B2E1F?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8B6914?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive%20Analytics-4B2E1F?style=for-the-badge)
 
-### Software & Databases
+### Software & Database
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -80,48 +78,25 @@ with a strong interest in C++ development, software engineering, artificial inte
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![TurtleBot3](https://img.shields.io/badge/TurtleBot3-2C3E50?style=for-the-badge)
 
-### Microsoft Office
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
-
 ---
 
 ## Technical Projects
 
 ### AI-Based Predictive Maintenance System
 
-Developed an AI-based predictive maintenance prototype for rotating equipment using **Isolation Forest** to detect abnormal machine behaviour.
+Developed an AI system for anomaly detection and machine health monitoring for rotating equipment.
 
-Applied data preprocessing and feature scaling to prepare sensor data for analysis, calculate machine health scores, monitor equipment conditions, and generate alerts to support early maintenance decisions.
+**Technologies:** Python, Scikit-learn, HTML, Machine Learning Models, Plotly
 
-**Technologies:** Python, Scikit-learn, Streamlit, HTML, Plotly
-
-**Focus:** Predictive Maintenance, Machine Learning, Isolation Forest, Anomaly Detection, Machine Health Monitoring
+**Focus:** Artificial Intelligence, Anomaly Detection, Predictive Maintenance, Machine Health Monitoring
 
 ---
 
-### Cinema Booking Ticket System
+### MindLock Security System
 
-Developed a cinema booking system that allows users to register, select seats, and manage bookings.
+Built an AI-assisted password management system focused on improving password security and user awareness.
 
-The system includes administrator features for managing movie schedules, bookings, and financial information. Database normalization was applied to maintain structured and efficient data.
-
-**Technologies:** C++, MySQL
-
-**Focus:** C++, Database Design, System Development, Booking Management, Database Normalization
-
----
-
-### MindLock – AI-Powered Password Generator
-
-Developed a password-security concept using visual memory anchors and AI-assisted ideas to improve password usability and security awareness.
-
-The project explores the combination of software development, artificial intelligence concepts, and cybersecurity.
-
-**Technologies:** Python, HTML, SQL
+**Technologies:** Python, HTML, SQL, Machine Learning Models
 
 **Focus:** Artificial Intelligence, Cybersecurity, Password Security, Software Development
 
@@ -129,33 +104,29 @@ The project explores the combination of software development, artificial intelli
 
 ### Traffic Carbon Emission Monitoring Dashboard
 
-Built an interactive dashboard to visualize traffic congestion, vehicle volume, estimated CO₂ emissions, and environmental risk levels.
+Developed an interactive dashboard to monitor traffic congestion and estimate CO₂ emissions, using data visualization and environmental monitoring techniques.
 
-Integrated charts, filters, KPI cards, and an interactive heatmap to identify traffic hotspots and high-emission areas.
+**Technologies:** Python, Streamlit, Plotly, Folium, AI, Data Science
 
-**Technologies:** Python, Streamlit, Pandas, Plotly, Folium
-
-**Focus:** Data Analytics, Data Visualization, Traffic Analysis, CO₂ Emission Estimation, Environmental Monitoring
+**Focus:** Data Analytics, Data Visualization, Traffic Analysis, CO₂ Emission Estimation
 
 ---
 
-### Heart Disease Prediction Model
+### Cinema Booking Ticket System
 
-Built a heart disease prediction model using **MATLAB** and a **Multilayer Perceptron Artificial Neural Network**.
+Built a cinema booking system with seat reservation and payment features, supported by a structured relational database.
 
-The model was designed to predict heart disease risk based on patient data, providing practical experience in machine learning classification and predictive modelling.
+**Technologies:** C++, MySQL
 
-**Technologies:** MATLAB, Artificial Neural Network, Machine Learning
-
-**Focus:** MLP, Classification, Predictive Modelling, Machine Learning
+**Focus:** C++, Database Design, System Development, Booking Management
 
 ---
 
 ## Certifications
 
 * **IBM Machine Learning Professional Certificate** — May 2026
-* **Google Data Analytics Professional Certificate** — June 2026
 * **Oracle Certified Foundations Associate – Database** — February 2026
+* **Google Data Analytics Professional Certificate** — June 2026
 
 ---
 
@@ -166,30 +137,20 @@ The model was designed to predict heart disease risk based on patient data, prov
 **Bachelor of Computer Science (Artificial Intelligence) with Honours**
 
 * Location: Melaka, Malaysia
-* Started: 2023
+* Start Date: 2023
 * Expected Graduation: **November 2027**
 * Current CGPA: **3.14/4.00**
-
-### EMS Language Centre
-
-**English Language Study – Elementary to Upper Intermediate**
-
-* Location: Kuala Lumpur, Malaysia
-* Completed: 2022
 
 ---
 
 ## Areas of Interest
 
-![C++ Development](https://img.shields.io/badge/C++%20Development-4B2E1F?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-8B6914?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6B4E16?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-D4A017?style=for-the-badge)
+![Industrial AI](https://img.shields.io/badge/Industrial%20AI-4B2E1F?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-D4A017?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-4B2E1F?style=for-the-badge)
-![Predictive Maintenance](https://img.shields.io/badge/Predictive%20Maintenance-8B6914?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-6B4E16?style=for-the-badge)
-![Database Systems](https://img.shields.io/badge/Database%20Systems-D4A017?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics-4B2E1F?style=for-the-badge)
+![Software Development](https://img.shields.io/badge/Software%20Development-8B6914?style=for-the-badge)
 
 ---
 
