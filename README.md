@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E1F,100:D4A017&height=220&section=header&text=Hi,%20I'm%20Alwaleed%20Hassan&fontSize=42&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Computer%20Science%20(Artificial%20Intelligence)%20Student&descAlignY=54&descSize=19&descColor=F5E6C8" alt="Header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B2E1F,100:D4A017&height=220&section=header&text=Hi,%20I'm%20Alwaleed%20Hassan&fontSize=42&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Computer%20Science%20(AI)%20%7C%20Data%20Analytics%20%26%20Automation&descAlignY=54&descSize=19&descColor=F5E6C8" alt="Header banner" width="100%" />
 </p>
 
 <p align="center">
@@ -38,10 +38,10 @@ passionate about Artificial Intelligence, Machine Learning, Robotics, Data Analy
 * Experienced in developing **AI-powered applications and full-stack systems** through academic projects
 * Interested in building practical software solutions and applying AI to real-world problems
 * Currently developing my technical skills through **academic projects, professional certifications, and hands-on practice**
-* Seeking a **full-time industrial internship for 24 weeks from 28 September 2026 to 12 March 2027**
+* Open to **full-time job opportunities** in AI, data analytics, and automation
 * Based in **Malaysia**
 * Expected graduation: **November 2027**
-* Current CGPA: **3.14/4.00**
+* Current CGPA: **3.15/4.00**
 
 ---
 
@@ -139,7 +139,7 @@ Built a cinema booking system with seat reservation and payment features, suppor
 * Location: Melaka, Malaysia
 * Start Date: 2023
 * Expected Graduation: **November 2027**
-* Current CGPA: **3.14/4.00**
+* Current CGPA: **3.15/4.00**
 
 ---
 
